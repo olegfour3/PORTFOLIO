@@ -4,7 +4,7 @@ Personal portfolio website made with Django framework in the backend, and with C
 It is a dynamic site so that you can control the content of the site through the admin area.
 
 ### *Watch the video*
-[![Watch the video]([[https://i.imgur.com/AfTmeER.png](https://user-images.githubusercontent.com/45397736/213864049-e52c4b92-b51b-48ae-bfe6-87eabaf24310.png)](https://user-images.githubusercontent.com/45397736/213864049-e52c4b92-b51b-48ae-bfe6-87eabaf24310.png))](https://youtu.be/lladnck8g14)
+[![Watch the video](https://user-images.githubusercontent.com/45397736/213864049-e52c4b92-b51b-48ae-bfe6-87eabaf24310.png)](https://youtu.be/T-D1KVIuvjA)
 
 ___
 
