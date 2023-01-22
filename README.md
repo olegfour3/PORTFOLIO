@@ -27,7 +27,7 @@ ___
 
 ## More screenshots
 
-Educanion and experience
+Education and experience
 ![educanion](https://user-images.githubusercontent.com/45397736/213864336-b76072bb-1519-4db1-afbb-87902ac462b9.png)
 
 Competences
